@@ -7,3 +7,8 @@ Desenvolvi a solução abaixo para solucionar este problema e ainda assim, facil
 
 # Como usar?
 A source encontra-se disponível neste repositório, você pode gerar a DLL e importar no seu projeto ou importar o próprio projeto para que possa customiza-lo.
+
+## Links de apoio criados no repo oficial.
+https://github.com/dncuug/X.PagedList/issues/107
+https://github.com/dncuug/X.PagedList/issues/12
+https://stackoverflow.com/questions/27842517/version-conflict-with-system-web-mvc
